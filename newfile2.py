@@ -7,33 +7,6 @@ import random
 import compileall
 from time import sleep
 import pyfiglet
-from datetime import *
-def stoped(y=0,m=0,d=0):
- date = datetime.now()
- if len(list(str(y))) == 4:
-  if m <= 12 and m > 0:
-   if d <= 31 and d > 0:
-    if date.year <= y:
-     if date.month <= m:
-      if date.day < d:
-       return True
-x = stoped(2024,10,30)
-if x:pass
-else:quit('Stoped Tool ..!')
-print("")
-import time
- 
-t = time.localtime(time.time())
-localtime = time.asctime(t)
-str = time.asctime(t)
- 
-print(str);
-
-import requests
-import random
-from user_agent import generate_user_agent
-import pyfiglet
-
 # = = = = = = = = = = = = 
 
 Z = '\033[1;31m' #احمر
