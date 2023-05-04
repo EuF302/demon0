@@ -15,10 +15,10 @@ apt install bash
 
 
 
-git clone https://github.com/elqnas-daymon-x1/demon.git
+git clone https://github.com/black-demon-dr7/demon0
 
 
-cd demon
+cd demon0
 
 ls
 
