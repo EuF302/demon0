@@ -6,7 +6,7 @@ import datetime
 import random
 import compileall
 from time import sleep
-import webbrowser,pyfiglet
+
 #start
 c = ['\033[1;30m','\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m','\033[1;37m']
 def jalan(z):
@@ -18,9 +18,7 @@ os.system('clear' )
 os.system('clear') 
 print(random.choice(c))
 #__________________________________________________________________________
-time.sleep(0.4)
 print('\033[33m[\033[36m ◕‿◕ \033[33m] \033[1;36mWelcom In My Tool')
-time.sleep(0.5)
 print ("""  
  (           *       )     )  
  )\ )      (  `   ( /(  ( /(  
@@ -30,7 +28,7 @@ print ("""
  |   \| __|  \/  |/ _ \| \| | 
  | |) | _|| |\/| | (_) | .` | 
  |___/|___|_|  |_|\___/|_|\_| 
-                                                       by : >> Black Demon                                       
+by : >> Black Demon                                       
 """)
 time.sleep(0.6)
 
@@ -65,8 +63,5 @@ if choose ==  '3':
 \033[33mTool Dev By : >> \033[31mBlack Demon
 
 \033[37mMy Channel : »» \033[34mhttp://t.me/BLACK_DEMON_VX ''')
-sleep(0.001/0.02)               
-webbrowser.open('https://t.me/black_code_22')
-print('')
 if choose == '4':
 	os.system('clear')
