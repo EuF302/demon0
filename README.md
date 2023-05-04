@@ -56,7 +56,7 @@ bash demon.sh
 
 
 follow me 
-##   https://t.me/Daymon_Hack
+##   https://t.me/BLACK_DEMON_VX
 
 ##   https://youtube.com/c/ELQNASDAYMON
 
