@@ -4,49 +4,50 @@
 
 # 
 # 
-## Installation Commands ↙️
+## Install Tool 🕷↙️
   
-apt update 
+-$<code> apt update && apt upgrade -y </code>
 
+-$<code> pkg install git python python2 nmap -y </code>
 
-apt upgrade 
+-$<code> pip install requests </code>
 
-apt install bash
+-$<code> pip install user_agent </code>
 
+-$<code> apt install bash </code>
 
+-$<code> git clone https://github.com/black-demon-dr7/demon0 </code>
 
-git clone https://github.com/black-demon-dr7/demon0
+-$<code> cd demon0 </code>
 
+-$<code> ls </code>
 
-cd demon0
-
-ls
-
-
-chmod +x *
-
-
-
-bash install.sh
-
-
-bash demon.sh
-
-
-
-
-
+-<code>$ python error.py </code>
 
 # ##
-### <<< If you copy , Then Give me The Credits >>>
 
 ## Features :
+#### [+] Hack instagram With Guess
+#### [+] Hack With Phishing Page ↙
+#### [01] Facebook
+#### [02] Instagram
+#### [03] Google
+#### [04] Github
+#### [05] Netflix
+#### [06] Paypal
+#### [07] Pinterest
+#### [08] Snapchat
+#### [09] Spotify
+#### [10] Twitter
+#### [11] Yahoo
+#### [12] Wordpress
 #### [+] Latest Login Pages !
 #### [+] New Instagram Auto Follower Page !
 #### [+] 4 Port Forwarding Options !
 #### [+] Easy for Beginners !
 #### [+] Facebook login page 
-## Tunelling Options :
+
+## Options :
 #### > Localhost (127.0.0.1)
 #### > NGROK (https://ngrok.com)
 #### > SERVEO (https://serveo.net)
@@ -54,11 +55,14 @@ bash demon.sh
  
 
 
-
 follow me 
 ##   https://t.me/BLACK_DEMON_VX
 
 ##   https://youtube.com/c/ELQNASDAYMON
+
+
+#Black_Demon
+#Team_DR7
 
 
 
