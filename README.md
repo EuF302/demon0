@@ -22,7 +22,7 @@
 
 -$<code> ls </code>
 
--<code>$ python error.py </code>
+-$<code> python error.py </code>
 
 # ##
 
