@@ -56,13 +56,13 @@
 
 
 follow me 
-##   https://t.me/BLACK_DEMON_VX
+##   https://t.me/Engineer302World
 
-##   https://youtube.com/c/ELQNASDAYMON
+##   https://www.youtube.com/@Engineer302World
 
 
-#Black_Demon
-#Team_DR7
+#Engineer302
+#Engineer302World
 
 
 
