@@ -47,7 +47,7 @@ sleep 4
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://t.me/BLACK_DEMON_VX
+xdg-open https://t.me/Engineer302World
 echo ""
 sleep 10
 echo " create account on c "
@@ -61,5 +61,5 @@ clear
    printf "\e[1;93m bash demon.sh\e[0m \n"
    printf "\n"
 
-termux-open-url https://youtube.com/@ELQNAS_DAYMON
+termux-open-url https://www.youtube.com/@Engineer302World
 echo ""
