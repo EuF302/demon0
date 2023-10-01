@@ -1,7 +1,7 @@
 #!/bin/bash
-#my name is Balck Demon i from egypt I Hacker 
-#https://t.me/BLACK_DEMON_VX
-#https://youtube.com/@ELQNAS_DAYMON
+#my name is Engineer302World i from egypt I Hacker 
+#https://t.me/Engineer302World
+#https://www.youtube.com/@Engineer302World
 trap 'printf "\n";stop;exit 1' 2
 deps() {
 command -v php > /dev/null 2>&1 || { echo >&2 "PHP is not installed ! Install it."; exit 1; }
@@ -11,10 +11,10 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 } 
 clear 
 
-figlet Black Demon 
+figlet Engineer302World 
 printf "\n"
-printf " \e[1;93m Black Demon\e[0m \n"
-printf " \033[1;35m MY CHANNEL | \033[1;34https://t.me/BLACK_DEMON_VX \e[0m \n"
+printf " \e[1;93m Engineer302World\e[0m \n"
+printf " \033[1;35m MY CHANNEL | \033[1;34https://t.me/Engineer302World \e[0m \n"
 printf "\n"
 
 menu() {
