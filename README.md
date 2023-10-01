@@ -2,6 +2,7 @@
 
 
 
+
 # 
 # 
 ## Install Tool 🕷↙️
@@ -16,7 +17,7 @@
 
 -$<code> apt install bash </code>
 
--$<code> git clone https://github.com/black-demon-dr7/demon0 </code>
+-$<code> git clone https://github.com/EuF302/demon0 </code>
 
 -$<code> cd demon0 </code>
 
