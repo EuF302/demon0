@@ -41,7 +41,7 @@ print ("""
  |   \| __|  \/  |/ _ \| \| | 
  | |) | _|| |\/| | (_) | .` | 
  |___/|___|_|  |_|\___/|_|\_| 
-by : >> Black Demon                                       
+by : >> Engineer302World                                       
 """)
 
 def main():
@@ -77,9 +77,9 @@ if choose ==  '3':
     	print('''
 \033[35mWelcome To My Tool
 	
-\033[33mTool Dev By : >> \033[31mBlack Demon
+\033[33mTool Dev By : >> \033[31mEngineer302World
 
-\033[37mMy Channel : »» \033[34mhttp://t.me/BLACK_DEMON_VX ''')
+\033[37mMy Channel : »» \033[34mhttp://t.me/Engineer302World ''')
 
 # = = = = = = = = = = = = = = = = = = 
 
